@@ -1,6 +1,6 @@
 # EasyYOLOv7
 
-[![Open In Colab] (https://colab.research.google.com/drive/1ZeDkhcCN-xsbmu8zea7enK3Kqa1xfOhk?usp=sharing)](https://colab.research.google.com/drive/1ZeDkhcCN-xsbmu8zea7enK3Kqa1xfOhk?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/drive/1ZeDkhcCN-xsbmu8zea7enK3Kqa1xfOhk?usp=sharing)](https://colab.research.google.com/drive/1ZeDkhcCN-xsbmu8zea7enK3Kqa1xfOhk?usp=sharing)
 
 
 
